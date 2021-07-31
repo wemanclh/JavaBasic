@@ -36,7 +36,7 @@ Integer z = Integer.valueOf(123);
 Integer k = Integer.valueOf(123);
 System.out.println(z == k);   // true
 ```
-valueOf() ⽅方法的实现⽐比较简单，就是先判断值是否在缓存池中，如果在的话就直接返回缓存池的内容。
+valueOf() ⽅方法的实现比较简单，就是先判断值是否在缓存池中，如果在的话就直接返回缓存池的内容。
 
 ```java
 public static Integer valueOf(int i) {

@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-* [首页]()
+* [关于]()
 * [数据类型](zh-cn/section1)
 * [String](zh-cn/section2)
 * [运算](zh-cn/section3)

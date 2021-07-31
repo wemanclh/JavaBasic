@@ -695,7 +695,7 @@ body {
   border-radius: 2px;
   color: rgb(171, 178, 191);
   font-family: 'Roboto Mono', Monaco, courier, monospace;
-  margin: 0 2px;
+  margin: 0px;
   padding: 3px 5px;
   white-space: pre-wrap;
 }
@@ -810,7 +810,7 @@ body {
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   font-size: 0.8rem;
   line-height: inherit;
-  margin: 0 2px;
+  margin: 0px;
   max-width: inherit;
   overflow: inherit;
   padding: 16px;

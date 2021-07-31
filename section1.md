@@ -25,8 +25,8 @@ int y = x;         // 拆箱 调⽤用了 X.intValue()
 
 new Integer(123) 与 Integer.valueOf(123) 的区别在于：  
 
-- new Integer(123) 每次都会新建⼀一个对象；
-- Integer.valueOf(123) 会使用缓存池中的对象，多次调⽤用会取得同⼀一个对象的引用。  
+- new Integer(123) 每次都会新建⼀个对象；
+- Integer.valueOf(123) 会使用缓存池中的对象，多次调⽤用会取得同⼀个对象的引用。  
 
 ```java
 Integer x = new Integer(123);
